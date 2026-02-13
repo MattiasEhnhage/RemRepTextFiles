@@ -1,0 +1,27 @@
+ al
+Base 
+salaryPensionOther 
+benefitsTotal 
+fixedTotal fixed % of total 
+remunerationCash 
+bonus1 LTIP2 Total 
+variableTotal variable % of 
+total remunerationTotal 
+remuneration
+Henrik Blou, CEO 2,640 264 9 2,913 54% 1,210 1,320 2,530 46% 5,443
+Niels Vrang, CSO3810 81 5 896 100% - - - 0% 896
+Kristian Borbos, CFO 1,572 157 38 1,767 54% 721 786 1,507 46% 3,274
+Total 5,022 502 52 5,576 58% 1,931 2,106 4,037 42% 9,613Fixed Variable
+
+7Remuneration of the Executive Management
+The business goals (KPIs) in Gubra’s short -term incentive 
+plan for Executive Management is set by the Board of 
+Directors . All KPIs for Executive Management members are 
+corporate KPIs and are the same for all members .
+In 2024 , the business goals were :
+•Organic revenue growth in the CRO business segment
+•Adjusted EBIT -margin in the CRO business segment
+•Number of new partnerships in the business segment 
+Discovery & Partnership
+•Data report on Amylin Phase 1a clinical study in the 
+business segment Discovery & Pa
